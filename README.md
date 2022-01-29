@@ -1,4 +1,4 @@
-Future Notes
+# Future Notes
 ## Week 3 Section Material CSE 142
 ---
 
